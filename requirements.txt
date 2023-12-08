@@ -7,3 +7,5 @@ numpy>=1.21.2
 pandas
 matplotlib
 gradio
+st
+streamlit      
